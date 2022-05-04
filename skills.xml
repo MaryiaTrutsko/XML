@@ -1,4 +1,4 @@
-<query>Mary</query>
+<skills>
 <field hard skills=“hard skills">Knowledge of software testing types methodologies and techniques</field>
 <field hard skills=“hard skills">Familiarity with certain bug tracking and test management tools</field>
 <field hard skills=“hard skills">Understanding of different SDLC</field>
@@ -7,4 +7,4 @@
 <field soft skills=“soft skills">Organized</field>
 <field soft skills=“soft skills">Proactive</field>
 <field soft skills=“soft skills">Adaptability Team Player</field>
-</party
+</skills>
