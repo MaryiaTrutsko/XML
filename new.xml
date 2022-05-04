@@ -1,0 +1,10 @@
+<query>Mary</query>
+    <field name=“name">Mary </field>
+    <field name="lastname">Trutsko</field>
+    <attribute type="patronymic">Aleksandrovna>
+        <field name="age">36</field>
+	<field name="pets">1</field>
+	<field name="salary">1500</field>
+    </attribute>
+</party>
+
