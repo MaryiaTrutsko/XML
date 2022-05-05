@@ -1,6 +1,11 @@
+<hw_5>
 <Bug>
-  <field BugID = "ID">JIRA gives an ID to the bug automatically, so we see nothing wrong here</field>
-  <field Bug Summary = "Bug Summary">This information is located below the ID. The summary of this bug isn’t specific. There are various types of users, and this summary doesn’t specify for which user(s) the bug occurs. A developer working on this issue will have to ask additional questions to clarify</field>
-  <field Bug Details ="Bug Details">The tester didn't provide any data about the application version and testing environment. We will talk through these details further in the article. As for the priority, testers usually assign a priority level, which may change later</field>
-  <field Bug Description = "Bug Description">This section raises the most questions. Here, the tester should explain Steps to Reproduce, Actual Results, and Expected Results. A bug report should give as much relevant information as possible. If your QA representatives don't describe how to reproduce a bug thoroughly enough, then developers will waste time trying to figure out what’s wrong</field>
-<Bug>
+ <Project>название проекта</Project>,
+  <ID>идентификатор отчета о дефекте, например, WS_VELC_20080625_000001</ID>
+  <CreatedDate>дата создания отчета</CreatedDate>
+  <Summary>краткое описание, заголовок отчета, Что? Где? При каких условиях?</Summary>
+  <Status>состояние инцидента</Status>
+  <IncidentType>тип инцидента: дефект, запрос на улучшение</IncidentType>
+  <Description>Описание, например - Если администратор заходит на страницу приветствия, то логотип пропадает</Description>
+</Bug>
+</hw_5>
