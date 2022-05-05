@@ -1,7 +1,7 @@
-<query>Mary</query>
-<field movie: "movie">p.s. i love you</field>
-<field serial: "serial">Outlander</field>
-<field food: "food">ajapsandali</field>
-<field time of the year: "time of the year">summer</field>
-<field country: "country>Spain</field>
- 
+<hw_5>
+<movie>p.s. i love you</movie>
+<serial>Outlander</serial>
+<food>ajapsandali</food>
+<timeOfTheYear>summer</timeOfTheYear>
+<country>Spain</country>
+ </hw_5>
